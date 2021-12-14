@@ -29,6 +29,8 @@
 		AD2B39742768A19400E9A6FE /* AssetSectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B39732768A19400E9A6FE /* AssetSectionHeaderView.swift */; };
 		AD2B39762768A23800E9A6FE /* AssetSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B39752768A23800E9A6FE /* AssetSectionView.swift */; };
 		AD2B39782768A3D600E9A6FE /* AssetSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B39772768A3D600E9A6FE /* AssetSummaryView.swift */; };
+		AD2B397B2768A86900E9A6FE /* TapMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B397A2768A86900E9A6FE /* TapMenuView.swift */; };
+		AD2B397D2768AC8400E9A6FE /* AssetCardSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B397C2768AC8400E9A6FE /* AssetCardSectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +58,8 @@
 		AD2B39732768A19400E9A6FE /* AssetSectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSectionHeaderView.swift; sourceTree = "<group>"; };
 		AD2B39752768A23800E9A6FE /* AssetSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSectionView.swift; sourceTree = "<group>"; };
 		AD2B39772768A3D600E9A6FE /* AssetSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSummaryView.swift; sourceTree = "<group>"; };
+		AD2B397A2768A86900E9A6FE /* TapMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapMenuView.swift; sourceTree = "<group>"; };
+		AD2B397C2768AC8400E9A6FE /* AssetCardSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetCardSectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +155,8 @@
 				AD2B39732768A19400E9A6FE /* AssetSectionHeaderView.swift */,
 				AD2B39752768A23800E9A6FE /* AssetSectionView.swift */,
 				AD2B39772768A3D600E9A6FE /* AssetSummaryView.swift */,
+				AD2B397A2768A86900E9A6FE /* TapMenuView.swift */,
+				AD2B397C2768AC8400E9A6FE /* AssetCardSectionView.swift */,
 			);
 			path = AssetSummaryView;
 			sourceTree = "<group>";
@@ -241,6 +247,8 @@
 				AD2B395E276894FA00E9A6FE /* AssetView.swift in Sources */,
 				AD2B39632768969B00E9A6FE /* BannerCard.swift in Sources */,
 				AD2B39782768A3D600E9A6FE /* AssetSummaryView.swift in Sources */,
+				AD2B397D2768AC8400E9A6FE /* AssetCardSectionView.swift in Sources */,
+				AD2B397B2768A86900E9A6FE /* TapMenuView.swift in Sources */,
 				AD2B395827688FBA00E9A6FE /* AssetMenu.swift in Sources */,
 				AD2B395A276891BE00E9A6FE /* AssetMenuButtonStyle.swift in Sources */,
 				AD2B396B27689BDC00E9A6FE /* AssetBannerView.swift in Sources */,
