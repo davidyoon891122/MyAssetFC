@@ -13,6 +13,11 @@
 		AD2B39482768330600E9A6FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD2B39472768330600E9A6FE /* Assets.xcassets */; };
 		AD2B394B2768330600E9A6FE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD2B394A2768330600E9A6FE /* Preview Assets.xcassets */; };
 		AD2B394E2768330600E9A6FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD2B394C2768330600E9A6FE /* LaunchScreen.storyboard */; };
+		AD2B3956276835D200E9A6FE /* NavigationBarWithButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B3955276835D200E9A6FE /* NavigationBarWithButton.swift */; };
+		AD2B395827688FBA00E9A6FE /* AssetMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B395727688FBA00E9A6FE /* AssetMenu.swift */; };
+		AD2B395A276891BE00E9A6FE /* AssetMenuButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B3959276891BE00E9A6FE /* AssetMenuButtonStyle.swift */; };
+		AD2B395C276893CC00E9A6FE /* AssetMenuGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B395B276893CC00E9A6FE /* AssetMenuGridView.swift */; };
+		AD2B395E276894FA00E9A6FE /* AssetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B395D276894FA00E9A6FE /* AssetView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		AD2B394A2768330600E9A6FE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AD2B394D2768330600E9A6FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD2B394F2768330600E9A6FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD2B3955276835D200E9A6FE /* NavigationBarWithButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarWithButton.swift; sourceTree = "<group>"; };
+		AD2B395727688FBA00E9A6FE /* AssetMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetMenu.swift; sourceTree = "<group>"; };
+		AD2B3959276891BE00E9A6FE /* AssetMenuButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetMenuButtonStyle.swift; sourceTree = "<group>"; };
+		AD2B395B276893CC00E9A6FE /* AssetMenuGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetMenuGridView.swift; sourceTree = "<group>"; };
+		AD2B395D276894FA00E9A6FE /* AssetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +73,11 @@
 				AD2B394C2768330600E9A6FE /* LaunchScreen.storyboard */,
 				AD2B394F2768330600E9A6FE /* Info.plist */,
 				AD2B39492768330600E9A6FE /* Preview Content */,
+				AD2B3955276835D200E9A6FE /* NavigationBarWithButton.swift */,
+				AD2B395727688FBA00E9A6FE /* AssetMenu.swift */,
+				AD2B3959276891BE00E9A6FE /* AssetMenuButtonStyle.swift */,
+				AD2B395B276893CC00E9A6FE /* AssetMenuGridView.swift */,
+				AD2B395D276894FA00E9A6FE /* AssetView.swift */,
 			);
 			path = MyAssets;
 			sourceTree = "<group>";
@@ -146,8 +161,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD2B39422768330400E9A6FE /* AppDelegate.swift in Sources */,
+				AD2B3956276835D200E9A6FE /* NavigationBarWithButton.swift in Sources */,
+				AD2B395C276893CC00E9A6FE /* AssetMenuGridView.swift in Sources */,
 				AD2B39442768330400E9A6FE /* SceneDelegate.swift in Sources */,
 				AD2B39462768330400E9A6FE /* ContentView.swift in Sources */,
+				AD2B395E276894FA00E9A6FE /* AssetView.swift in Sources */,
+				AD2B395827688FBA00E9A6FE /* AssetMenu.swift in Sources */,
+				AD2B395A276891BE00E9A6FE /* AssetMenuButtonStyle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
